@@ -1,0 +1,19 @@
+{
+  "name": "CASOOLA | Casoola Casino Online w Polsce z bonusem $700 + 270 FS",
+  "short_name": "CASOOLA",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#b91c1c",
+  "background_color": "#faf8f5",
+  "display": "standalone"
+}
